@@ -6,3 +6,5 @@ cp .env.example .env 로 env파일을 복사합니다
 php artisan migrate 를 통해 디비테이블을 만듭니다.
 php artisan db:seed --class=TodoSeeder 를 통해 더미 데이터를 넣습니다
 php artisan key:generate 앱 키 생성
+
+JWT, Swagger, API(Get, Post, Update, Delete)
